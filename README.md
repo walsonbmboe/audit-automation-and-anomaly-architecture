@@ -110,7 +110,7 @@ The system supports **two major flows**: audit report generation and anomaly det
 This project is for personal and educational use by Walson, a certified AWS Solutions Architect.
 
 ## 📬 Contact
-Built by Walson – aspiring Cloud Architect http://www.linkedin.com/in/mboewalsonbaiye
+Built by Walson – aspiring ML/AI Engineer http://www.linkedin.com/in/mboewalsonbaiye
 
 
 
