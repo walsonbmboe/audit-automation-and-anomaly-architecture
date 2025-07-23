@@ -13,7 +13,7 @@ This project demonstrates a scalable cloud-native audit pipeline using AWS servi
 
 ## 🗺️ Architecture Overview
 
-![Audit Pipeline Diagram](Architecture(2).png)
+![Audit Pipeline Diagram](architecture.png)
 
 ## 🚀 How to Deploy (AWS CLI)
 
